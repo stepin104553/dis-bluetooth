@@ -48,7 +48,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_person"></ImageView>
+                    android:src="@drawable/ic_desktop"></ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -69,7 +69,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_settings"></ImageView>
+                    android:src="@drawable/ic_vote"></ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -89,7 +89,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_settings"></ImageView>
+                    android:src="@drawable/ic_file"></ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -133,7 +133,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_settings"></ImageView>
+                    android:src="@drawable/ic_lock"></ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -154,7 +154,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_settings"></ImageView>
+                    android:src="@drawable/ic_info"></ImageView>
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
