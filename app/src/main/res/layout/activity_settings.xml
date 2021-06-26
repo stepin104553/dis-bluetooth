@@ -110,7 +110,7 @@
                 <ImageView
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_settings"></ImageView>
+                    android:src="@drawable/ic_baseline_settings"></ImageView>
 
                 <TextView
                     android:layout_width="wrap_content"
