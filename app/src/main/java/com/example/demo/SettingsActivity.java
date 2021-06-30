@@ -14,6 +14,8 @@ public class SettingsActivity extends AppCompatActivity {
 private LinearLayout layer2;
 private LinearLayout layer4;
 private LinearLayout layer5;
+private LinearLayout layer6;
+private LinearLayout layer7;
 private TabLayout myTabLayout;
 private Button back;
 private LinearLayout layer3;
@@ -50,6 +52,16 @@ private Toolbar toolbar;
         layer5.setOnClickListener(v-> {
             Intent statisticintent = new Intent(SettingsActivity.this, StatisticActivity.class);
             startActivity(statisticintent);
+        });
+        layer6=findViewById(R.id.layer6);
+        layer6.setOnClickListener(v->{
+            Intent securityintent = new Intent(SettingsActivity.this,SecurityActivity.class);
+            startActivity(securityintent);
+        });
+        layer7=findViewById(R.id.layer7);
+        layer7.setOnClickListener(v->{
+            Intent aboutintent=new Intent(SettingsActivity.this,AboutActivity.class);
+            startActivity(aboutintent);
         });
         }
     }

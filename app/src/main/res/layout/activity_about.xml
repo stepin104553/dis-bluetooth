@@ -5,12 +5,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ServiceActivity">
+    tools:context=".AboutActivity">
     <TextView
         android:id="@+id/registertext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Hi,, This is Service Layout"/>
-
+        android:text="Hi,, This is About Layout"/>
 </RelativeLayout>
